@@ -1,0 +1,12 @@
+.left-div{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.image-tag, .image-bar{
+    width: 250px;
+    margin: 20px;
+}
+.image-div{
+    height: 415px;
+}
