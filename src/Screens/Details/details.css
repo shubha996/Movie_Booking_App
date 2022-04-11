@@ -1,0 +1,15 @@
+.body-div{
+    display: flex;
+}
+.left-div{
+    border: 1px solid black;
+    width: 25%;
+}
+.right-div{
+    border: 1px solid black;
+    width: 25%;
+}
+.center-div{
+    border: 1px solid black;
+    width: 50%;
+}
