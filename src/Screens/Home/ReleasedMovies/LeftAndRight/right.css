@@ -1,0 +1,8 @@
+#btn-apply{
+    background-color: rgb(68, 65, 243);
+    color: white;
+    font-size: larger;
+    font-weight: 600;
+    min-width: 240px;
+    max-width: 240px;
+}
