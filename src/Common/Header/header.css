@@ -19,3 +19,7 @@
     transform: rotate(359deg);
   }
 }
+#btn-login{
+  background-color: aliceblue;
+  float: right;
+}

@@ -7,7 +7,7 @@ class Left extends Component {
   render() {
     return (
       <div className="left-div">
-        <ImageList sx={{ width: 1200 }}>
+        <ImageList sx={{ width: 1 }}>
           <ImageListItem key="Subheader" cols={4}></ImageListItem>
           {moviesData.map((item) => (
             <ImageListItem key={item.id}>

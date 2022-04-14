@@ -6,7 +6,7 @@ import './verticalImageList.css';
 class VerticalImageList extends Component {
   render() {
     return (
-        <ImageList  sx={{ width: 1685, height: 250 }}>
+        <ImageList  sx={{ width: 1519, height: 250 }}>
         <ImageListItem  key="Subheader" cols={moviesData.length}>
         </ImageListItem>
         {moviesData.map((item) => (
